@@ -232,7 +232,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Kevin Ngo's Scenes](https://ngokevin.github.io/kframe/) - Kevin Ngo's A-Frame scenes including MagicaVoxel models, audio visualizations, and a Minecraft demo [[Code]](https://github.com/ngokevin/kframe)
 - [Aztec Pong](http://meta-meta.github.io/aztec-pong) - Play Pong floating atop an Aztec monument. [[Code]](https://github.com/meta-meta/aztec-pong)
 - [Hello, Pizza!](http://carpedmt.github.io) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Code]](https://github.com/carpedmt/carpedmt.github.io)
-- [Alien Abduction](http://vedm.xyz/abductionvr) - Alien Abduction demo
+- [Alien Abduction](https://gdedi001.github.io/AbductionVR/) - Alien Abduction demo
 - [Mars: An Interactive Journey](http://wapo.st/marsvr) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all)
 - [360 Syria](http://360syria.com/) - View the devastation of barrel bombs in Aleppo, Syria; created in partnership with [AllJunior](http://junior.io) and [Amnesty International UK](https://www.amnesty.org.uk)
 - [Tron World - Carpet Ride](http://www.alexoviedo999.com/vr-carpet-ride/tron-world/)
